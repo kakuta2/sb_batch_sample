@@ -23,8 +23,8 @@
 hs_err_pid*
 
 /bin/
-/.gradle/
+/.gradle
 /.mvn
-/.vscode/
+/.vscode
 .classpath
 .project
