@@ -1,0 +1,8 @@
+spring:
+  batch:
+    initialize-schema: always
+  datasource:
+    url: jdbc:postgresql://localhost/sample
+    username: postgres
+    password: qazwsx
+    driverClassName: org.postgresql.Driver
